@@ -1,1 +1,0 @@
-Du kartus paspaudus ant "Kibernetinio_saugumo_zaidimas.jar" įsijungs sistema.
